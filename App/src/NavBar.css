@@ -1,0 +1,26 @@
+/* Navbar.css */
+
+.navbar {
+    padding: 15px 30px;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    margin-bottom: 10px;
+    padding: 0;
+  }
+  
+  .navbar li {
+    margin: 0 20px;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+  }
+  
