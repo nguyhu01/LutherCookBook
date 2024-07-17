@@ -1,6 +1,6 @@
 # LutherCookBook
 
-LutherCookBook is a dynamic full-stack web application tailored for people with a passion for cooking and sharing culinary experiences. This project utilizes a combination of technologies including React for the frontend, creating an interactive user interface, and Python, SQLalchemy, with the Flask framework to establish a robust backend.
+LutherCookBook is a full-stack web application tailored for people with a passion for cooking and sharing culinary experiences. This project utilizes a combination of technologies including React for the frontend and Python, SQLalchemy, with the Flask framework to establish the backend.
 
 ## Key Features
 
